@@ -15,7 +15,7 @@ description: "Get started with Katalon Analytics - A quality test execution repo
 
 #### Katalon Analytics – Quality insight for your automation tests
 
-*   Step 1: Go to [https://analytics.katalon.com/](https://www.youtube.com/redirect?event=video_description&v=9NDSQ9HX5dw&redir_token=ovjehMyQcA-idoUK3Ekrz2JzWFx8MTUyODc3NzE3OEAxNTI4NjkwNzc4&q=https%3A%2F%2Fanalytics.katalon.com%2F) and login
+*   Step 1: Go to [https://analytics.katalon.com/](https://analytics.katalon.com/) and login
 *   Step 2: Create a new project
 *   Step 3: Open Katalon Studio Project – Settings – Integration – Katalon Analytics Give details and connect Select automatic upload (optional)
 *   Step 4: Run your TestSuite and check reports uploaded to Katalon Analytics
